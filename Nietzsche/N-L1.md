@@ -1,6 +1,6 @@
 # Nietzsche
 
-Peter Kail Lecturer
+Peter Kail - Lecturer
 
 Became professor at Uni of Basel at a young age (university was exploiting young academics).
 
