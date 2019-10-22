@@ -1,5 +1,5 @@
 Concurrent Algorithms & Data Structures
-The Art of Multiprocessor Programming - Chapter 1 (revised first edition)
+The Art of Multiprocessor Programming - Chapter 1 (revised first edition). Any references are to this textbook either by index or page number)
 
 We want to concentrate where the concurrency is happening quite tightly (specifically in the datatypes)
 And then we can be sequential in the result
