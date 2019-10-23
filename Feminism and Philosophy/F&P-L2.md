@@ -12,7 +12,7 @@ Seems to elevate some parocial experiences as the universal condition of womanho
 
 What is it like to be a woman in a non-white, non-upper class etc situation
 
-Largely ignores other systems of oppression such as race and class. How do these issues complicate Beaudoirs dyadic pictures.
+Largely ignores other systems of oppression such as race and class. How do these issues complicate de Beauvoir's dyadic pictures.
 
 Race can be considering placing a white subject against black objects
 
@@ -31,19 +31,19 @@ Coquettishnesss, sexual purity, feminity just as a badge of women's oppression f
 Last week's summary:
 Beauvoir's account of feminism is insufficiently intersectional. Intersectionality has become a mainstream idea and issue.
 
-Eg in Trudeau's defence after blackface. Did he demonstrate an understanding of intersectionality though?
+Eg intersectionality referenced in Trudeau's defence after blackface. Did he demonstrate an understanding of intersectionality though?
 
-When thinking abou tt he history important to distinguish between the concept of intersectionality and the word. Brought into being by Kimberly Penshaw in 1989. The idea predates the word however. She drew on an established tradition amongst feminists who had wanted to reveal the ways that white feminism excluded non-white perspectives.
+When thinking about the history important to distinguish between the concept of intersectionality and the word. Brought into being by Kimberle Crenshaw in 1989. The idea predates the word however. She drew on an established tradition amongst feminists who had wanted to reveal the ways that white feminism excluded non-white perspectives.
 
 She's beautiful when she's angry - documentary of some of the history
 
 The history looks white; but that does not mean there was not significant actions being taken by non-white feminists radical or not. They may have been more likely to get involved in anti-racist groups instead. At the same time they fought for feminist justice as well as racist and class-based justice.
 
 ## 1974 
-a black lesbian group ... River Collective formed in Boston (including Barbara Smith)
+a black lesbian group Combahee River Collective formed in Boston (including Barbara Smith)
 
 ## 1977 
-Black Feminist statement from collective - worth reading and still relevant today. Explained the history of the collective. Offended by the marginalisation on race and class issues by white feminists. Not enough to stitch together an anti-racist politics with a feminist politics with a queer-friendly stance. Class politics with its dyadic structure was also lacking. Wanted to combine the movements in some new and powerful way. Integrated politics/analysis/practice. Based on the premise that the racist/sexist etc systems are interlocking. Claim that it is continuous with the history of anti-racist activism/tradition. They had a shared awareness of how their sexual and racial identities combined to make their struggle *unique*. It is the outgrowth of decades of struggle etc. Crucial feminist gesture of personal experience to other groups. This focusing on our own oppression is... comes from our own identity rather than focusing to end someone else's oppressions.
+Black Feminist statement from Combahee River collective - worth reading and still relevant today. Explained the history of the collective. Offended by the marginalisation on race and class issues by white feminists. Not enough to stitch together an anti-racist politics with a feminist politics with a queer-friendly stance. Class politics with its dyadic structure was also lacking. Wanted to combine the movements in some new and powerful way. Integrated politics/analysis/practice. Based on the premise that the racist/sexist etc systems are interlocking. Claim that it is continuous with the history of anti-racist activism/tradition. They had a shared awareness of how their sexual and racial identities combined to make their struggle *unique*. It is the outgrowth of decades of struggle etc. Crucial feminist gesture of personal experience to other groups. This focusing on our own oppression is... comes from our own identity rather than focusing to end someone else's oppressions.
 
 First recorded use of term identity politics. They see the promise of emancipation for all as the natural extension. If black women were free then it would entail all people to be free. Would involve the dismantling all the systems of oppression from gender to sexual orientation etc.
 
@@ -55,13 +55,13 @@ Need integrated analysis of interlocking oppressions.
 
 Draw attention to the limits of some feminist theoreticians. Eg white feminists regarded men as the political opposition, going so far as to argue for lesbian separatism.
 
-This was rejected by the Comboidsaf collective as they felt solidarity from black men. White women obviously do not need to with white men (unless it is solidarity in oppressing racial minorities). It is a dual movement - black men are both allies and opponents.
+This was rejected by the Combahee River collective as they felt solidarity from black men. White women obviously do not need to with white men (unless it is solidarity in oppressing racial minorities). It is a dual movement - black men are both allies and opponents.
 
 Therefore more complex integrated feminism required at theoretical and individual level
 
 ## 1989
 
-Crenshaw gave name intersectional feminism - good TED talk!
+Crenshaw gave name to intersectional feminism - good TED talk!
 
 It is a metaphor for talking about oppression. Some women stand at intersections. What happens at an intersection like with traffic is not additive. Combining two flows of traffic creates extra effects, from slowing down to crashes
 
@@ -85,7 +85,7 @@ The irony is that it is the most oppressed that are defended the least. Via an i
 
 From an intersectional feminist perspective:
 
-We should automatically believe black women when they accuse a white man of rape Should consider the racial politics of such accusations. White women have used false allegations as a weapon against black men.
+We should automatically believe black women when they accuse a white man of rape. Should consider the racial politics of such accusations. White women have used false allegations as a weapon against black men.
 
 We must question whether a racist police and prison system can ever be an adequate solution to the problems faced by black and brown women.
 
@@ -117,7 +117,7 @@ Here the claim is that there is no common form of women's oppression. Elizabeth 
 
 Even if the extant theories do not show the full picture does not mean that no such full picture exists. Maybe there is such a thing as full womanhood. But the logic of intersectionality seems to lead to the idea that there is no such thing though.
 
-Perhaps intersectionality reveals that there is no such thing as race, gender etc beyond a social construct. There is the irreducible complexity of social and political life. We use blunt analytical tools to categorise these interactions. Naomi Zac:
+Perhaps intersectionality reveals that there is no such thing as race, gender etc beyond a social construct. There is the irreducible complexity of social and political life. We use blunt analytical tools to categorise these interactions. Naomi Zack:
 
 "race was always gendered and gender was always raced"
 
@@ -140,7 +140,7 @@ Butler:
 
 The contrast between a solidarity and welcoming environment and the rest of the world can be a shock. This incentivises keeping divisions.
 
-"Coalition work is not done in your home, it is done in the streets ..."  -quote
+"Coalition work is not done in your home, it is done in the streets ..."  -quote from Barbara Smith _Coalition Politics: Turning the Century_
 
-This relieves the contradictions from the movement. The barred room (with people sharing your experiences) is not the world. Opening up the room leaves it no longer a home. It is not comfortable any more. This is a sign that things have gone right according to Reagan
+This relieves some contradictions from the movement. The barred room (with people sharing your experiences) is not the world. Opening up the room leaves it no longer a home. It is not comfortable any more. This is a sign that things have gone right according to Reagon
 
