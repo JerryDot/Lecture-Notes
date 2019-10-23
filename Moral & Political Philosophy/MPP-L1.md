@@ -11,3 +11,9 @@ We (the lecture audience) have a wide range of moral/ethical judgements and asse
 Normative ethics is first-order theorising that seeks to understand in more general terms which states of affair are morally desirable and which actions are right or permissible. It is an abstraction from specific judgements to generalised judgement-creating frameworks
 
 Meta-ethics is the theory about the nature and status of ethics (so can be considered a second-order theory compared to ethics). Asks questions like "what are we saying"
+
+.
+.
+.
+
+Some notes not typed up from handout

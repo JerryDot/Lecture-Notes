@@ -26,7 +26,7 @@ We are not rational free agents whose thoughts are determined by an impartial gr
 
 N implies that earlier approaches involve appeals to something "behind" the world. Eg God approaches; Kantian ethics. For N any appeals to God are off the table - any form of theism is simply intellectually incredible "not our reasons but our tastes". He doesn't "argue" against the existence of god - he takes it as a premise.
 
-Kantian - we live as an empirical self in a causal world; but we have a neumenal self that stands outside ordinary space and time. This is radically free and therefore capable of making all sorts of rational judgements. N thinks this is also implausible
+Kantian - we live as an empirical self in a causal world; but we have a noumenal self that stands outside ordinary space and time. This is radically free and therefore capable of making all sorts of rational judgements. N thinks this is also implausible
 
 WHAT DOES QUA MEAN (QUAY?)
 
