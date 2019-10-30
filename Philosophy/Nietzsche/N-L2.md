@@ -28,7 +28,7 @@ N implies that earlier approaches involve appeals to something "behind" the worl
 
 Kantian - we live as an empirical self in a causal world; but we have a noumenal self that stands outside ordinary space and time. This is radically free and therefore capable of making all sorts of rational judgements. N thinks this is also implausible
 
-WHAT DOES QUA MEAN (QUAY?)
+Qua means "in the capacity of" or more simply "as"
 
 He doesn't aim his philosophy at criticising religious people. The falsity of their views is not his concern - it is a premise. A Xian will not begin with N's starting point so he doesn't try to engage with them. He engages with fellow naturalists
 
@@ -42,7 +42,7 @@ N says the GM is preparatory to the revaluation of values - are the values we ha
 
 ## "Morality" and Morals
 
-What is it that N is trying to explain? NOte that Morality can be distincted in a narrow and wider sense
+What is it that N is trying to explain? Note that Morality can be distincted in a narrow and wider sense
 
 Wide sense - any recognisable pattern of evaluation of kinds of human being/characters/actions. Ie that there is a normative dimension to a view of human beings. Many different kinds of substantive moralities in this sense - eg ethical code of mafia different from norms governing a Buddhist community. Many different sets of oughts that people can follow; many standards they can meet or fail. N recognises many moralities in this sense. Much of our action is guided by general normative framework. Compare humans to cats - humans can do things that they "should do" but cats just do? [Room for criticism here?]. Cat is governed by regularities or habits that prevent it from peeing indoors. This seems inconsistent. Unless it is how the being considers their action that is important?
 
@@ -55,7 +55,7 @@ Leiter calls "morality in the perjorative sense" (MPS). Lecturer slightly disagr
 ### Marks of MPS
 N doesn't map out things neatly so the lecturer will for us!
 
-* A metaphysical of freedom involving the Principle of Alternate Possibilties which underwrites the next poins This is a conception of agency and freedom. //Debate between compatibilism, free will. Intuition about being free that sits oddly with causal determinism. We could never have done otherwise given a certain situation. Eg clock cannot decide to go backwards. Intuition about moral that sits with reward and punishment. Why punish someone who could not have done otherwise? Does punishment have some alternate purpose/status.// N is not concerned with philosophical intuitions, but rather with how ordinary people think
+* A metaphysics of freedom involving the Principle of Alternate Possibilties which underwrites the next points. This is a conception of agency and freedom. //Debate between compatibilism, free will. Intuition about being free that sits oddly with causal determinism. We could never have done otherwise given a certain situation. Eg clock cannot decide to go backwards. Intuition about moral that sits with reward and punishment. Why punish someone who could not have done otherwise? Does punishment have some alternate purpose/status.// N is not concerned with philosophical intuitions, but rather with how ordinary people think
 
 * A notion of moral responsibility resting on desert and;
 
@@ -83,9 +83,9 @@ Paul Ree and the History of Moral Sensations
 
 English have not done "real history" - they spare into the blue of speculation. Blue skies thinking. As opposed to the grey - what actually happened and what can be derived from it. English have failed to be grey - they speculate too much.
 
-N thinks that the English genealogies are ahistorical -very abstract speculation over some basic concepts. "humans realised the utility of working together so they needed morality". N looks at characters to recognise that they have a different kind of morality. It is history relatively determinate when a certain Xian asceticism arose. English genealogies completely ignore this and talk about utility
+N thinks that the English genealogies are ahistorical - very abstract speculation over some basic concepts. "humans realised the utility of working together so they needed morality". N looks at characters to recognise that they have a different kind of morality. It is historically relatively determinate the conditions when a certain Xian asceticism arose. English genealogies completely ignore this and talk about utility
 
-English genealogies are insufficiently suspicious of "morality". This is a complex thing. Thinks that they bias their explanations in order to make sure that the values as they are now somehow have worthwhile origins. want their causative origins not to undermine their normative status. IF more critical then they would be more likely to see the difficulties in their emergence.
+English genealogies are insufficiently suspicious of "morality". This is a complex thing. Thinks that they bias their explanations in order to make sure that the values as they are now somehow have worthwhile origins. want their causative origins not to undermine their normative status. If more critical then they would be more likely to see the difficulties in this emergence.
 
 ## What is the point of giving the GM
 
