@@ -98,6 +98,6 @@ Hume thinks it is logically possible for something to arise without cause, but t
 
 # Induction
 
-Leads up to 1.3.6 while looking for necessary connexion. How do we move from observed to unobserved. Will be discussed next time
+Leads up to 1.3.6 while looking for necessary connexion. How do we move from observed to unobserved? Will be discussed next time
 
 
